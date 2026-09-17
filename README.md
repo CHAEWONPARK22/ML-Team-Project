@@ -133,8 +133,12 @@ Regression 분석에서는 단일 변수와 여러 변수를 활용한 회귀 �
 
 ---
 
-## 🔗 Resources
+## 📓 Colab Notebooks
 
-- Dataset
-- Google Colab Notebook
-- Full Project Report
+각 분석 파트별 Google Colab Notebook입니다.
+
+| Part | Notebook |
+|------|----------|
+| 📈 Regression | [Open in Google Colab](https://colab.research.google.com/drive/1l7pcfuRkkYVV_h69Pmym-MEz-vOWr1jZ?usp=sharing) |
+| 🎯 Classification | [Open in Google Colab](https://colab.research.google.com/drive/17rcYFTnZxEwxOPwXjxvcrc4N-XTvNe3U?usp=sharing) |
+| 🔍 Clustering | [Open in Google Colab](https://colab.research.google.com/drive/1bgOtNG74EBB_z-fdCGGwxC91iDA11dma?usp=sharing) |
