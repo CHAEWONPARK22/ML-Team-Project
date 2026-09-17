@@ -112,6 +112,9 @@ Regression 파트를 담당하여 다음과 같은 분석을 수행했습니다.
 - Permutation Importance 분석
 - Feature-Risk Score 관계 분석
 
+### 📓 My Regression Notebook
+
+[Open Regression Notebook in Google Colab](https://colab.research.google.com/drive/1l7pcfuRkkYVV_h69Pmym-MEz-vOWr1jZ?usp=sharing)
 ---
 
 ## 📊 Key Analysis
