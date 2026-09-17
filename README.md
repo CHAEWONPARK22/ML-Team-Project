@@ -33,7 +33,7 @@ Regression, Classification, Clustering의 세 가지 머신러닝 접근법을 �
 
 ### 1. Regression
 
-환자의 심장질환 위험도를 **0~1 사이의 연속적인 Risk Score**로 예측했습니다.
+환자의 심장질환 위험도를 0~1 사이의 연속적인 Risk Score로 예측했습니다.
 
 #### Models
 
@@ -57,7 +57,7 @@ Random Forest Regression을 활용하여 여러 변수의 관계를 반영한
 
 ### 2. Classification
 
-환자의 심장질환 여부(`HeartDisease`)를 **0/1로 분류**했습니다.
+환자의 심장질환 여부(`HeartDisease`)를 0/1로 분류했습니다.
 
 #### Models
 
@@ -98,7 +98,7 @@ Elbow Method와 Silhouette Score를 활용하여 K-Means의 군집 수를
 
 ### 📈 Regression Analysis
 
-**심장질환 위험도를 연속적인 Risk Score로 예측하는 Regression 분석을 담당했습니다.**
+심장질환 위험도를 연속적인 Risk Score로 예측하는 Regression 분석을 담당했습니다.
 
 **Models**
 - Simple Linear Regression
@@ -113,7 +113,7 @@ Elbow Method와 Silhouette Score를 활용하여 K-Means의 군집 수를
 - Permutation Importance
 - Feature–Risk Score 관계 분석
 
-📓 **[Open Regression Notebook in Google Colab](https://colab.research.google.com/drive/1l7pcfuRkkYVV_h69Pmym-MEz-vOWr1jZ?usp=sharing)**
+📓 [Open Regression Notebook in Google Colab](https://colab.research.google.com/drive/1l7pcfuRkkYVV_h69Pmym-MEz-vOWr1jZ?usp=sharing)
 
 ---
 ---
