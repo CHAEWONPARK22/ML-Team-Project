@@ -129,7 +129,7 @@ Regression 분석에서는 단일 변수와 여러 변수를 활용한 회귀 �
 자세한 데이터 전처리 과정과 Regression, Classification, Clustering
 분석 결과는 전체 프로젝트 보고서에서 확인할 수 있습니다.
 
-[📎 View Full Project Report](./docs/Machine_Learning_Project_Report.pdf)
+[📎 View Full Project Report](./docs/Machine%20Learning%20Project%20Report.pdf)
 
 ---
 
